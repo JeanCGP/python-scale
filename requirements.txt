@@ -1,0 +1,6 @@
+azure-identity
+azure-storage-file-datalake
+Flask
+pandas
+requests
+waitress
